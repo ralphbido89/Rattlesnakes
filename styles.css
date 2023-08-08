@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+
+h1 {
+    padding: 5px;
+    font-family: arial;
+    font-size: 24px;
+    background-color: red;
+    color: white;
+}
+
+img {
+    width: 300px;
+}
+
+#author-name-and-date {
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightgray;
+    font-size: 12px;
+}
+
+p, ol {
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}

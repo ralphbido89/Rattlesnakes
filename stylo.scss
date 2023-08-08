@@ -1,0 +1,11 @@
+p {
+    font: {
+        family: Arial;
+        size: 12pt;
+        weight: bold;
+    }
+}
+
+@mixin highlight($color, $width) {
+    border: 2px solid red;
+}
